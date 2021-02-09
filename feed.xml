@@ -3,10 +3,74 @@
     <title>another site</title>
     <link href="https://wiki.da-eun.com/feed.xml" rel="self" />
     <link href="https://wiki.da-eun.com" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2021-02-09T14:14:28+09:00</updated>
     <author>
         <name>me</name>
     </author>
     <id>https://wiki.da-eun.com</id>
 
+    <entry>
+        <title>어서오세요</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://wiki.da-eun.com/eoseooseyo.html"/>
+        <id>https://wiki.da-eun.com/eoseooseyo.html</id>
+
+        <updated>2021-02-09T14:14:28+09:00</updated>
+            <summary>
+                <![CDATA[
+                    어서오세요
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>어서오세요</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>반갑습니다</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://wiki.da-eun.com/bangabseubnida.html"/>
+        <id>https://wiki.da-eun.com/bangabseubnida.html</id>
+
+        <updated>2021-02-09T14:14:10+09:00</updated>
+            <summary>
+                <![CDATA[
+                     반갑습니다. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    반갑습니다.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>안녕하세요</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://wiki.da-eun.com/annyeonghaseyo.html"/>
+        <id>https://wiki.da-eun.com/annyeonghaseyo.html</id>
+
+        <updated>2021-02-09T14:13:14+09:00</updated>
+            <summary>
+                <![CDATA[
+                    안녕하세요
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>안녕하세요</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
