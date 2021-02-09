@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "another site",
+    "description": "",
+    "home_page_url": "https://loryel.github.io/wiki.da-eun.com",
+    "feed_url": "https://loryel.github.io/wiki.da-eun.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "me"
+    },
+    "items": [
+    ]
+}
