@@ -3,12 +3,32 @@
     <title>another site</title>
     <link href="https://wiki.da-eun.com/feed.xml" rel="self" />
     <link href="https://wiki.da-eun.com" />
-    <updated>2021-02-09T14:14:28+09:00</updated>
+    <updated>2021-02-11T22:58:10+09:00</updated>
     <author>
         <name>me</name>
     </author>
     <id>https://wiki.da-eun.com</id>
 
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>me</name>
+        </author>
+        <link href="https://wiki.da-eun.com/hello.html"/>
+        <id>https://wiki.da-eun.com/hello.html</id>
+
+        <updated>2021-02-11T22:58:10+09:00</updated>
+            <summary>
+                <![CDATA[
+                    hi there
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hi there</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>어서오세요</title>
         <author>
